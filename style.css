@@ -2,18 +2,26 @@ a:link
 {
 	color: #473737;
 	text-decoration: none;
+        font-family:Lucida Grande,Tahoma;
+        font-size:11px;
 	
 }
 a:visited
 {
 	color: #473737;
 	text-decoration: none;
+        font-family:Lucida Grande,Tahoma;
+        font-size:11px;
+
 	
 }
 a:hover
 {
 	color: #473737;
 	text-decoration: underline overline blink;
+        font-family:Lucida Grande,Tahoma;
+        font-size:11px
+
 }
 #sarkan_menu ul {
 margin: 0;
