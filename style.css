@@ -1,0 +1,45 @@
+a:link
+{
+	color: #473737;
+	text-decoration: none;
+	
+}
+a:visited
+{
+	color: #473737;
+	text-decoration: none;
+	
+}
+a:hover
+{
+	color: #473737;
+	text-decoration: underline overline blink;
+}
+#sarkan_menu ul {
+margin: 0;
+padding: 0;
+height: 100%;
+overflow: hidden;
+list-style: none;
+}
+#sarkan_menu ul li {
+float: left;
+margin-right: 1px;
+font: bold 12px/14px Arial, Helvetica;
+}
+#sarkan_menu ul li a {
+display: block;
+padding: 5px 0;
+width: 85px;
+border-top: 8px solid #cc0000;
+color: #cc0000;
+text-align: center;
+text-decoration: none;
+}
+#sarkan_menu ul li a:hover
+{
+padding-bottom: 5px;
+border-top: 8px solid #cc0000;
+background: #cc0000 url(images/active.png) bottom no-repeat;
+color: #fff;
+}
